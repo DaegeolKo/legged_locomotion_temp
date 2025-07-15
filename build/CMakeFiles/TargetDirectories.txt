@@ -1,0 +1,4 @@
+/home/kdg/adaptation_module_joint/go2_gym_deploy/build/CMakeFiles/lcm_position_go2.dir
+/home/kdg/adaptation_module_joint/go2_gym_deploy/build/CMakeFiles/lcm_receive.dir
+/home/kdg/adaptation_module_joint/go2_gym_deploy/build/CMakeFiles/edit_cache.dir
+/home/kdg/adaptation_module_joint/go2_gym_deploy/build/CMakeFiles/rebuild_cache.dir
